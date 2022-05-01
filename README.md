@@ -1,3 +1,3 @@
-# parallel_homework
+# parallel_homework 
 
-## code is ready to add
+## 1. two threads for speedding up ECC point multiplication 
